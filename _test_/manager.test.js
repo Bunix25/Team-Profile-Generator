@@ -1,5 +1,7 @@
+//const Manager
 const Manager = require("../lib/manager");
 
+//Test
 test("Test Manager's officeNumber", () => {
     const officeNumber = 9053245755;
     const eOfficeNumber = new Manager("Sviatoslav", 1, "svat@gmail.com", officeNumber);
