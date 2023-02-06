@@ -135,7 +135,7 @@ module.exports = team => {
 
       <div class="bg-color mt-2 p-3 text-center  text-white">
         <p>Developed by</p>
-        <h5>Zakharuk Sviatoslav</h5>
+        <h5>Sviatoslav Zakharuk</h5>
       </div>
     
     </body>
