@@ -1,3 +1,4 @@
+//const inquirer
 const inquirer = require('inquirer');
 const fs = require('fs');
 
@@ -8,6 +9,7 @@ const renderTeam = require('./src/template');
 
 teamArray = [];
 
+//function
 function run() {
   inquirer
     .prompt([
@@ -32,7 +34,7 @@ function run() {
       }
     })
 }
-
+//function manager
 function managerQuestion() {
   inquirer.prompt([
     {
@@ -97,7 +99,7 @@ function managerQuestion() {
     run();
   });
 }
-
+//function engineer
 function engineerQuestion() {
   inquirer.prompt([
     {
@@ -162,7 +164,7 @@ function engineerQuestion() {
     run();
   });
 }
-
+//function intern
 function internQuestion() {
   inquirer.prompt([
     {
