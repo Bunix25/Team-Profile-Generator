@@ -59,9 +59,9 @@ THEN I exit the application, and the HTML is generated
 
 ## 📺 [Mock-Up](#table-of-contents)
 
-![Screenshot](./src/readme_src/desktop-screenshot.png)
+![Screenshot](![Alt text](src/readme_src/team-profile-generator.png))
 
-![Video](./src/readme_src/Team-Profile-Generator.gif)
+![Screenshot](![Alt text](![Alt text](src/readme_src/test.png)))
 
 ### [ Video Link ](https://)
 
