@@ -93,4 +93,4 @@ Open this file in VS Code to test it. Using the terminal, open the Team Profile 
 ## 🤔 [FAQs](#table-of-contents)
 Please contact me using the following links:
 
-[GitHub](https://github.com/Bunix25) / Email:
+[GitHub](https://github.com/Bunix25) / Email:Svattt7@gmail.com
