@@ -1,5 +1,7 @@
+//const Employee
 const Employee = require("../lib/employee");
 
+//Test Employee Name
 test("Test Employee Name", () => {
     const name = "Vimukthi";
     const eName = new Employee(name);
