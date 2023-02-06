@@ -1,5 +1,7 @@
+//const Intern
 const Intern = require('../lib/intern');
 
+//Test
 test("Test Intern's School", () => {
     const school = "Carleton University";
     const intern = new Intern("Sviatoslav", 1, "svat@gmail.com", school);
