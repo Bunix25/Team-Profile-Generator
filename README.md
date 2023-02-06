@@ -85,7 +85,7 @@ We are open to all kinds of contributions. If you want to:
 
 We are excited that you are reading this and are willing to contribute. No need to think big. Even a typo fix might save our day and make you a hero. Every contribution counts!
      
-Feel free to check [issues page](https://github.com/VimukthiGunasekara/team-profile-generator/issues) 
+Feel free to check [issues page](https://github.com/Bunix25/Team-Profile-Generator/issues) 
      
 ## 🚀[Tests](#table-of-contents)
 Open this file in VS Code to test it. Using the terminal, open the Team Profile Generator folder and run the 'npm run test' command. You can view a preview of the test this application.
