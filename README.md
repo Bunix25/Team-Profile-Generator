@@ -63,7 +63,7 @@ THEN I exit the application, and the HTML is generated
 
 ![Screenshot](![Alt text](![Alt text](src/readme_src/test.png)))
 
-### [ Video Link ](https://)
+### [ Video Link ](https://youtu.be/hq5Xq8wqloA)
 
 ## ⚙️ [Installation](#table-of-contents)
 Use your terminal to clone or download or copy the zip file to a directory of your choice. Then open the file in VS Code or whatever editor you use. In VS Code, open the terminal and navigate to Team Profile Generator in the root directory. Now you can run the application!
